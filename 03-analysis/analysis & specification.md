@@ -1,8 +1,8 @@
 # Week 3 - Requirements Analysis and Specification
-## Information from Week 2
-## Candidate Requirements
-## Requirements Surgery
-## Functional Requirements
-## Quality Requirements
-## Project Application
-## Reflection
+## 1. Information from Week 2
+## 2. Candidate Requirements
+## 3. Requirements Surgery
+## 4. Functional Requirements
+## 5. Quality Requirements
+## 6. Project Application
+## 7. Reflection
