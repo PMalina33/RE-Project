@@ -30,7 +30,6 @@ Concerns: Equipment being double booked or damaged.
 ## 4. Information sources
 - Interviewing and asking questions to possible stakeholders.
 ## 5. Elicitation questions
-- What is the desired outcome?
 - How can double bookings of an equipment be avoided?
 - What should be done if an equipment cannot be returned by deadline?
 - Who would be in charge of updating system records and tracking?
