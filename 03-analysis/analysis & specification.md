@@ -8,9 +8,11 @@
 FIND: 
 - The system should prevent two people from booking the same equipment at the same time.
 DIAGNOSE:
+
 - What is meant by prevent?
 - Who is envolved?
 - How would the system know?
+
 ASK:
 - Which people should be prevented from booking the same equipment?
 - Who would get priority of booking?
